@@ -1,11 +1,12 @@
 # Supermarket-Sales-Dashboard-Power-BI-
 
 **Project Overview**
-This project focuses on analyzing sales performance of a fictional supermarket chain using Power BI. It includes KPIs, visualizations, and interactivity to extract meaningful business insights.
+
+This project focuses on analyzing sales performance of a fictional supermarket chain using Power BI. It includes KPIs, visualizations, and meaningful business insights.
 
 **Key Features**
 
-Interactive Dashboard with cards, bar charts, pie charts, and line graphs.
+Dashboard with cards, bar charts, pie charts, and line graphs.
 
 DAX Measures: Total Sales, Average Rating, Monthly Sales.
 
